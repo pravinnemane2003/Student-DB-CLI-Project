@@ -16,16 +16,16 @@ A simple **Java Command-Line Interface (CLI) project** with MySQL database integ
 
 - Run the following SQL commands:
 - CREATE DATABASE studentdb;
-USE studentdb;
+ USE studentdb;
 
-CREATE TABLE student (
+ CREATE TABLE student (
     rollno INT,
     name VARCHAR(50),
     address VARCHAR(100)
-);
+   );
 
 
-## 📂 Project Structure
+  ## 📂 Project Structure
 CLI-DB-Project/
 │
 ├── src/
